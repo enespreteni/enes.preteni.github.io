@@ -1,0 +1,164 @@
+.a1 {
+    
+    width: 1440px; 
+    height: 1024px; 
+    position: relative; 
+    background: white;
+}
+
+.a2{
+    
+    width: 1388px; 
+    height: 69px; 
+    left: 53.50px; 
+    top: 31px; 
+    position: absolute; 
+    background: #F6F5F5;
+}
+
+.a3{
+    
+    width: 392px; 
+    height: 592px; 
+    left: 26px; 
+    top: 271px; 
+    position: absolute; 
+    background: #F2F2F2;
+}
+
+.a4{
+   
+    width: 477px; 
+    height: 592px; 
+    left: 462px; 
+    top: 271px; 
+    position: absolute; 
+    background: #F2F2F2;
+}
+
+.a5{
+   
+    width: 451px; 
+    height: 592px; 
+    left: 962px; 
+    top: 271px; 
+    position: absolute; 
+    background: #F2F2F2;
+}
+
+.a6{
+   
+    width: 447px; 
+    height: 82px; 
+    left: 477px; 
+    top: 43px; 
+    position: absolute; 
+    text-align: center;
+}
+
+.a7{
+   
+    width: 1375px; 
+    height: 19px; 
+    left: 47px; 
+    top: 150px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.a8{
+   
+    width: 447px; 
+    height: 384px; 
+    left: -1px; 
+    top: 345px; 
+    position: absolute; 
+    border-radius: 40px;
+}
+
+.a9{
+   
+    width: 360px; 
+    height: 55px; 
+    left: 31px; 
+    top: 770px; 
+    position: absolute; 
+    text-align: center; 
+    color: #4F4F4F; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+.a10{
+   
+    width: 447px; 
+    height: 384px; 
+    left: 975px; 
+    top: 345px; 
+    position: absolute; 
+    border-radius: 40px;
+}
+
+.a11{
+  
+    width: 360px; 
+    height: 55px; 
+    left: 1019px; 
+    top: 777px; 
+    position: absolute; 
+    text-align: center; 
+    color: #4F4F4F; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 600;
+     word-wrap: break-word
+}
+
+.a12{
+   
+    width: 447px; 
+    height: 384px; 
+    left: 477.88px; 
+    top: 343.98px; 
+    position: absolute; 
+    border-radius: 40px
+}
+
+.a13{
+   
+    width: 360px; 
+    height: 55px; 
+    left: 539px; 
+    top: 777px; 
+    position: absolute; 
+    text-align: center; 
+    color: #4F4F4F; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+.a14{
+   
+    width: 1354px; 
+    height: 57px; 
+    left: 39px; 
+    top: 936px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+
+

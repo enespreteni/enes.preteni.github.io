@@ -1,0 +1,95 @@
+.Desktop1{
+    
+    width: 1440px; 
+    height: 1024px; 
+    position: relative;
+    background: white
+}
+
+.Rectangle1{
+    
+    width: 265px; 
+    height: 101px; left: 13px; top: 22px; 
+    position: absolute; 
+    background: #1C8257
+}
+
+.Rectangle2{
+    
+    width: 903px; 
+    height: 97px; left: 505px; top: 26px; 
+    position: absolute; 
+    background: #D9D9D9
+}
+
+.Home{
+    
+    width: 183px; 
+    height: 82px; left: 57px; top: 31px; 
+    position: absolute; 
+    color: white; 
+    font-size: 64px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+
+.Phones{
+    
+    width: 249px; 
+    height: 78px; left: 842px; top: 35px; 
+    position: absolute; 
+    color: black; 
+    font-size: 64px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+
+.i14{
+   
+    width: 366px; 
+    height: 368px; left: 21px; top: 212px; 
+    position: absolute; 
+    border-radius: 20px
+}
+
+.s23{
+   
+    height: 368px; left: 21px; top: 616px; 
+    position: absolute; 
+    border-radius: 20px
+}
+
+.s23u{
+   
+    width: 296px; 
+    height: 328px; 
+    left: 546px; top: 647px; 
+    position: absolute; 
+    border-radius: 21px
+}
+
+.gp7{
+   
+    width: 366px; 
+    height: 368px; left: 1050px; top: 616px; 
+    position: absolute; 
+    border-radius: 20px
+}
+
+.i14pm{
+   
+    width: 366px; 
+    height: 368px; left: 1050px; top: 212px; 
+    position: absolute; 
+    border-radius: 20px
+}
+
+.i14p{
+   
+    width: 366px; 
+    height: 368px; left: 535px; top: 212px; 
+    position: absolute; 
+    border-radius: 20px
+}
